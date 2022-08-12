@@ -1,0 +1,6 @@
+{
+    "name": "@poetent/configuration",
+    "description": "PoEtent build configurations",
+    "version": "1.0.0",
+    "module": "index.js"
+  }
